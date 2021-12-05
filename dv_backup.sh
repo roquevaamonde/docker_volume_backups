@@ -18,7 +18,7 @@ function comprobar() {
 
 function check_dir() {
 
- ls $1 &> /dev/null
+ ls $1 > /dev/null 2> /dev/null
  if [ $? == 0 ];
    then
      check_dir="skipping"

@@ -1,0 +1,5 @@
+host;user;directory;nombre_backup;contenedor
+"192.168.1.250";"root";"/trini_web/volumenes/atmd_wp_v";"atmd_wp_v";"1a74ddde4bbb"
+"192.168.1.250";"root";"/trini_web/volumenes/atmd_db_v";"atmd_db_v";"75557018adf7"
+"192.168.1.250";"root";"/rhosting_web/volumenes/rhosting_db";"rhosting_db";"741679b0811e"
+"192.168.1.250";"root";"/rhosting_web/volumenes/rhosting_wp";"rhosting_wp";"b95d389a5fc4"
